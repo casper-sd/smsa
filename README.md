@@ -1,3 +1,7 @@
 # smsa
 Study Material Search Application
-You need Poppler path set in your environment variables.
+
+Requirements:
+1.  Poppler
+2.  Tesseract OCR
+3.  Adobe Acrobat Reader
